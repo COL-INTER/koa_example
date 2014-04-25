@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "main": "app.js",
   "dependencies": {
-    "koa": "*",
-    "benchmark":"*",
-    "thunkify":"*",
-    "thunkify-wrap":"*",
-    "koa-router":"*"
+    "koa": "0.5.2",
+    "benchmark":"1.0.0",
+    "thunkify":"1.0.0", 
+    "thunkify-wrap":"0.1.1",
+    "koa-router":"3.1.2"
   },
   "devDependencies": {
   }
