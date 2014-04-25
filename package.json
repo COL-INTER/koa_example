@@ -1,0 +1,14 @@
+{
+  "name": "koa",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "*",
+    "benchmark":"*",
+    "thunkify":"*",
+    "thunkify-wrap":"*",
+    "koa-router":"*"
+  },
+  "devDependencies": {
+  }
+}
