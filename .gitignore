@@ -1,2 +1,15 @@
 /node_modules
 /examples
+
+coverage.html
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+dump.rdb
+.DS_Store
+
+npm-debug.log
