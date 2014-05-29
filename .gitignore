@@ -1,6 +1,7 @@
 /node_modules
 /examples
 /test
+/logs
 coverage.html
 *.seed
 *.log
@@ -9,6 +10,9 @@ coverage.html
 *.out
 *.pid
 *.gz
+*.tags
+*.tags_sorted_by_file
+.dist
 dump.rdb
 .DS_Store
 
